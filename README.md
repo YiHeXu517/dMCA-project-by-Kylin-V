@@ -21,3 +21,5 @@ Steps:
 9. run python3 -u make_2d_esa.py (response to signal)
 
 10. run ../Kylin-V/bin/specific-mps-tolerance.a (calculate cross correlations)
+
+11. run pythons -u plt_com.py (check the results)
