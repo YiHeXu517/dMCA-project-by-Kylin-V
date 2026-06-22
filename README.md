@@ -22,4 +22,4 @@ Steps:
 
 10. run ../Kylin-V/bin/specific-mps-tolerance.a (calculate cross correlations)
 
-11. run pythons -u plt_com.py (check the results)
+11. run python3 -u plot_com.py (check the results)
